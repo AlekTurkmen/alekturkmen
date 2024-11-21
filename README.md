@@ -3,5 +3,5 @@
 
 I'm an entrepreneur, a hacker, a student, an engineer and I livestream all the time on youtube. 
 
-- I'm probably streaming [here]https://www.youtube.com/@alekturkmen/streams.
+- I'm probably streaming [here](https://www.youtube.com/@alekturkmen/streams).
     
