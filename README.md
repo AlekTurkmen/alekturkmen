@@ -1,5 +1,6 @@
 <!--**AlekTurkmen/alekturkmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![100-7-banner](https://github.com/user-attachments/assets/1505eaca-36ad-4143-bf5b-eb4d5fa6b70e)
+![$100-10days](https://github.com/user-attachments/assets/e25e829c-2941-48e1-bea8-a7e0aa049a9c)
+
 
 I'm an entrepreneur, a hacker, a student, an engineer and I livestream all the time on youtube. 
 
